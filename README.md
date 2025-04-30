@@ -77,6 +77,7 @@ Abra o notebook `AluraStoreBr.ipynb` no Jupyter Notebook ou Google Colab.
 ```plaintext
 ├── AluraStoreBr.ipynb       # Notebook principal com a análise e gráficos
 ├── README.md                # Documentação do projeto
+├── brunoscog-cover.jpg      # Imagem de capa
 ├── loja_1.csv               # Base de dados da Loja 1
 ├── loja_2.csv               # Base de dados da Loja 2
 ├── loja_3.csv               # Base de dados da Loja 3
